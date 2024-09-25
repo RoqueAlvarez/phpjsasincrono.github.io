@@ -1,0 +1,60 @@
+body {
+    background-color: #4e2e3b;
+    color: #fff;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.c-user {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.input-group-text {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+input.form-control {
+    border-radius: 0;
+    background-color: transparent;
+    color: #000;
+}
+
+.btn {
+    background-color: #5f1e3a;
+    border-color: #5f1e3a;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #44122a;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+}
+
+.table {
+    background-color: #000;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: none;
+    color: #fff; 
+}
+
+.table th {
+    background-color: transparent;
+}
+
+.table-dark {
+    background-color: #000;
+}
